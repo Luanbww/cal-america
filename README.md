@@ -7,6 +7,10 @@ Olá, estou trazendo mais um dos meus projetos. Desenvolvemos este sistema para 
 <img align="center" src="1.png">
 https://calculadora-america.vercel.app/
 
+## Artigos
+
+Retiramos todos os artigos, tempos e multa de dentro do tablet  do game, deixando sicronizado.
+
 |  Artigo | Tempo | Multa |
 | ------------- | ------------- | ------------- |
 Art. 01 - Tráfico de Influência	| 25 |	35k
