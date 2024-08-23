@@ -5,8 +5,7 @@ Olá, estou trazendo mais um dos meus projetos. Desenvolvemos este sistema para 
 ## 📷 Começando
 
 <img align="center" src="1.png">
-
-<a href=“https://calculadora-america.vercel.app/“>Flex Grid</a>
+https://america.vercel.app
 
 ### 📋 Pré-requisitos
 
