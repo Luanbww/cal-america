@@ -4,7 +4,7 @@ Olá, estou trazendo mais um dos meus projetos. Desenvolvemos este sistema para 
 
 ## 📷 Começando
 
-(1.png)
+<img align="center" src="1.png"
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
 Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
