@@ -5,6 +5,7 @@ Olá, estou trazendo mais um dos meus projetos. Desenvolvemos este sistema para 
 ## 📷 Imagens
 
 <img align="center" src="1.png">
+<img align="center" src="1.png">
 https://calculadora-america.vercel.app/
 <br></br>
 https://americav3.vercel.app/ (Backup)
