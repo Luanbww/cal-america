@@ -14,6 +14,8 @@ https://americav3.vercel.app/ (Backup)
 
 Retiramos todos os artigos, tempos e multa de dentro do tablet  do game, deixando sicronizado.
 
+# Antigo:
+
 |  Artigo | Tempo | Multa |
 | ------------- | ------------- | ------------- |
 Art. 01 - Tráfico de Influência	| 25 |	35,000
